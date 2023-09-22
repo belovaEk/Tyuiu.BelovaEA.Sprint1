@@ -18,7 +18,7 @@ namespace Tyuiu.BelovaEA.Sprint1.Task3.V16
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
+            Console.WriteLine("* Тема: Алгоритмы линейной структуры                                      *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #16                                                             *");
             Console.WriteLine("* Выполнила: Белова Екатерина Андреевна | ИИПб-23-1                       *");

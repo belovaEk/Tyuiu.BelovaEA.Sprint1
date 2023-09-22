@@ -18,7 +18,7 @@ namespace Tyuiu.BelovaEA.Sprint1.Task1.V17
             Console.Title = "Спринт #1 | Выполнил: Белова Е. А. | ИИПб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Алгоритмы линейной структуры                                      *");
+            Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #17                                                             *");
             Console.WriteLine("* Выполнила: Белова Екатерина Андреевна | ИИПб-23-1                       *");
